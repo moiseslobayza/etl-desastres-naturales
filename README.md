@@ -187,6 +187,7 @@ Luego de ese período, la serie muestra una etapa de mayor estabilidad y una ten
 
 Sin embargo, esta tendencia debe interpretarse con cautela. El gráfico representa desastres registrados en el dataset, no necesariamente la totalidad real de eventos ocurridos. La evolución puede estar afectada por cambios en la calidad del registro, criterios metodológicos, disponibilidad de datos o subregistro en algunos períodos.
 
+![Cantidad de desastres naturales por año - Dataset completo](outputs/graficos/desastres_por_anio_total.png)
 ---
 
 ## 2. Cantidad de desastres naturales por año - Últimas dos décadas
