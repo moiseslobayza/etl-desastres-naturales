@@ -198,7 +198,7 @@ Se destacan aumentos puntuales en años como 2005, 2010, 2015 y 2019. Esto indic
 
 La caída en 2021 debe analizarse con prudencia, ya que podría estar influida por carga incompleta de datos o diferencias en los registros disponibles.
 
-![Cantidad de desastres naturales por año - Últimas dos decadas](outputs/graficos/desastres_por_anio_ultimas_dos_decadas)
+![Cantidad de desastres naturales por año - Últimas dos decadas](outputs/graficos/desastres_por_anio_ultimas_dos_decadas.png)
 ---
 
 ## 3. Cantidad de desastres naturales por mes
