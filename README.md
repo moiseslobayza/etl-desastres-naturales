@@ -209,6 +209,7 @@ Los meses con mayor cantidad de desastres registrados son enero, julio y agosto.
 
 Esto sugiere que la ocurrencia de desastres naturales no se distribuye de manera completamente uniforme durante el año. Puede existir una relación con fenómenos climáticos estacionales, como temporadas de lluvias, tormentas, ciclones, sequías o inundaciones.
 
+![Cantidad de desastres naturales por mes](outputs/graficos/desastres_por_mes.png)
 ---
 
 ## 4. Heatmap estacional año-mes
@@ -219,6 +220,7 @@ Se observan concentraciones más intensas en ciertos meses y años específicos,
 
 También se observa que algunos años presentan mayor intensidad general que otros, lo cual puede estar vinculado a eventos climáticos extremos o a variaciones en el registro de datos.
 
+![Heatmap estacional año-mes](outputs/graficos/heatmap_estacional.png)
 ---
 
 ## 5. Regiones con mayor cantidad de inundaciones
@@ -235,6 +237,7 @@ El predominio de regiones asiáticas es consistente con zonas altamente expuesta
 
 Este cruce permite identificar regiones donde las inundaciones representan un problema recurrente y relevante.
 
+![Regiones con mayor cantidad de inundaciones](outputs/graficos/inundaciones_por_region.png)
 ---
 
 ## 6. Regiones con mayor cantidad de sequías
@@ -250,6 +253,7 @@ También aparecen regiones como:
 
 Este resultado muestra que las sequías tienen una distribución geográfica marcada y afectan especialmente a regiones con vulnerabilidad climática, agrícola y socioeconómica.
 
+![Regiones con mayor cantidad de sequías](outputs/graficos/sequias_por_region.png)
 ---
 
 ## 7. Países con mayor cantidad de terremotos
@@ -269,6 +273,7 @@ Los países con mayor cantidad de terremotos registrados son:
 
 Este resultado es coherente con países ubicados en zonas de alta actividad sísmica, como el Cinturón de Fuego del Pacífico y otras zonas de contacto entre placas tectónicas.
 
+![Países con mayor cantidad de terremotos](outputs/graficos/terremotos_por_pais.png)
 ---
 
 ## 8. Principales cruces entre tipo de desastre y región
@@ -285,6 +290,7 @@ Esto indica que las inundaciones son uno de los tipos de desastre más frecuente
 
 También se observa una presencia importante de tormentas en Eastern Asia, Northern America y South-Eastern Asia.
 
+![Principales cruces entre tipo de desastre y región](outputs/graficos/tipo_desastre_region.png)
 ---
 
 ## 9. Tormentas por continente
@@ -295,6 +301,7 @@ Europa, África y Oceanía presentan cantidades menores en comparación.
 
 Este patrón puede estar relacionado con la exposición geográfica de ciertas regiones a ciclones tropicales, huracanes, tifones y tormentas severas.
 
+![Tormentas por continente](outputs/graficos/tormentas_por_continente.png)
 ---
 
 # Conclusiones generales
